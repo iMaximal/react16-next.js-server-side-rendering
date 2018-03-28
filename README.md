@@ -9,9 +9,6 @@ Simple example
 npm i
 ````
 
-
-````
-
 ## Usage
 
 ````bash
