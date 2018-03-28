@@ -1,0 +1,23 @@
+{
+  "name": "react16-next.js-server-side-rendering",
+  "version": "1.0.0",
+  "description": "For study",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "next.js"
+  ],
+  "author": "Maksim Golitsyn",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
